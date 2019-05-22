@@ -1,0 +1,15 @@
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.dll.config
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.deps.json
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.runtimeconfig.json
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.runtimeconfig.dev.json
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.dll
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\bin\Debug\netcoreapp2.2\TaskAndTimeTracking.pdb
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.csprojAssemblyReference.cache
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.csproj.CoreCompileInputs.cache
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.RazorAssemblyInfo.cache
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.RazorAssemblyInfo.cs
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.AssemblyInfoInputs.cache
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.AssemblyInfo.cs
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.RazorTargetAssemblyInfo.cache
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.dll
+F:\Files\Projects\C#\FHV\TaskAndTimeTracking\TaskAndTimeTracking\obj\Debug\netcoreapp2.2\TaskAndTimeTracking.pdb
